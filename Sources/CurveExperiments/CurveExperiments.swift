@@ -2,16 +2,6 @@ import Crypto
 import Foundation
 import Curve25519
 
-//public struct CurveKeys {
-//    public func generateCryptoKey() throws -> Crypto.Curve25519.Signing.PrivateKey {
-//        let privateKey = Crypto.Curve25519.Signing.PrivateKey()
-//        return privateKey
-//    }
-//
-//    public func loadCurveKey(from data: Data) throws -> Curve25519{
-//
-//}
-
 @main
 struct Curve25519Experiments {
     static func main() throws {
